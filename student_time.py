@@ -6,4 +6,5 @@ elif (time == "A"):
 elif (time == "E"):
     print(" good evening")
 else:
-    print(" invalid option")
+    print(" Invalid option")
+    print(" bye")
